@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
     private void calculateAge() {
 
         int day = datePicker.getDayOfMonth();
-        int month = datePicker.getMonth(); // 0-11
+        int month = datePicker.getMonth();
         int year = datePicker.getYear();
 
 
